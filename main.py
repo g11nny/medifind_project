@@ -29,4 +29,7 @@ if query:
 # 4. Karta
 st.subheader("📍 Jaqın átiraptaǵı dárixanalar")
 st.map(df[['lat', 'lon']])
+st.write("---")
+st.subheader("🎨 Keleshektegi interfeys (Figma)")
+st.image("design1.png", caption="MediFind Professional UI Design", use_container_width=True)
 
