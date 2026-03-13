@@ -22,7 +22,7 @@ class MediFindEngine:
 # --- DATA WITH COMPLEX STRUCTURE ---
 raw_data = {
     'Dári atı': ['Paracetamol', 'Analgin', 'Citramon', 'Aspirin', 'Noshpa', 'Qupen'],
-    'Dárixana': ['Dawlet Farm', 'Mir Apteka', 'Aybolit', 'Ajiniyaz', 'Shıpa Nur', 'Nur Apteka],
+    'Dárixana': ['Dawlet Farm', 'Mir Apteka', 'Aybolit', 'Ajiniyaz', 'Shıpa Nur', 'Nur Apteka'],
     'Bahası_Int': [5000, 3000, 4500, 6000, 12000, 70000],
     'Reyting': [4.8, 4.2, 3.9, 4.5, 4.9, 5.0],
     'Status': ['Open', 'Open', 'Closed', 'Open', 'Open','Open'],
