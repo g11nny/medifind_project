@@ -34,7 +34,7 @@ raw_data = {
 engine = MediFindEngine(raw_data)
 
 # --- FRONTEND (Streamlit) ---
-st.title("💊 MediFind Professional Engine")
+st.title("💊 MediFind ")
 
 # Statistika bólimi (Hákislerge unaydı)
 stats = engine.get_statistics()
